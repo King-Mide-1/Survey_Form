@@ -5,7 +5,7 @@ FreeCodeCamp (New) Responsive Web Design Certification projects
 - You should have a short explanation in a p element with an id of description
 - You should have a form element with an id of survey-form
 - Inside the form element, you are required to enter your name in an input field that has an id of name and a type of text
-- Inside the form element, you are required to enter your email in an input field that has an id of email
+- Inside the form element, you are required ts enter your email in an input field that has an id of email
 - If you enter an email that is not formatted correctly, you will see an HTML5 validation error
 - Inside the form, you can enter a number in an input field that has an id of number
 - If you enter non-numbers in the number input, you will see an HTML5 validation error
