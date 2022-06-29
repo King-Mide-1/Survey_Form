@@ -1,5 +1,6 @@
 # Survey_Form
 FreeCodeCamp (New) Responsive Web Design Certification projects
+<<<<<<< HEAD
 
 - You should have a page title in an h1 element with an id of title
 - You should have a short explanation in a p element with an id of description
@@ -17,3 +18,5 @@ FreeCodeCamp (New) Responsive Web Design Certification projects
 - Inside the form element, you can select several fields from a series of checkboxes, each of which must have a value attribute
 - Inside the form element, you are presented with a textarea for additional comments
 - Inside the form element, you are presented with a button with id of submit to submit all the inputs
+=======
+>>>>>>> e02c8bfd353cd23dd356f834f9f31ca3d4af16f7
